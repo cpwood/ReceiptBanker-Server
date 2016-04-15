@@ -3,7 +3,7 @@
 
 website.publishproj
 Web.receiptbanker.config
-App_Data/*
+*.pubxml
 
 # User-specific files
 *.suo
